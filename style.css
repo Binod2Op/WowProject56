@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    text-align: center;    
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+#camera{
+    width: 500px;
+    height: 300px;
+}
+#flower{
+    width: 500px;
+    height: 300px;
+}
+#tree{
+    width: 500px;
+    height: 300px;
+}
+#space{
+    width: 500px;
+    height: 300px;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
